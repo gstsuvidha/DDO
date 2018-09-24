@@ -1,0 +1,4 @@
+
+ name : "gcr.io/cloud-builders/gcloud"
+  args : ["DDO.Webapp", "deploy"]
+timeout : "1600s"   
